@@ -3,7 +3,7 @@ from __future__ import with_statement
 
 from setuptools import setup
 
-VERSION = '0.1'
+VERSION = '0.1.0.post1'
 
 
 def get_long_description():
@@ -21,7 +21,7 @@ setup(
     keywords='flake8 mccabe',
     author='Ian Cordasco',
     author_email='graffatcolmingov@gmail.com',
-    url='https://gitlab.com/sigmavirus24/mccabe-console-script',
+    url='https://gitlab.com/pycqa/mccabe-console-script',
     license='Expat license',
     install_requires=['mccabe >= 0.3'],
     entry_points={
