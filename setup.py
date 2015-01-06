@@ -23,7 +23,7 @@ setup(
     author_email='graffatcolmingov@gmail.com',
     url='https://gitlab.com/sigmavirus24/mccabe-console-script',
     license='Expat license',
-    install_requires=['mccabe'],
+    install_requires=['mccabe >= 0.3'],
     entry_points={
         'console_scripts': [
             'mccabe = mccabe:main',
