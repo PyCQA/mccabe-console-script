@@ -5,7 +5,7 @@ A package that creates a console script for the `McCabe complexity checker`_.
 
 Installation::
 
-    pip install mccabe-complexity-checker
+    pip install mccabe-console-script
 
 Usage::
 
